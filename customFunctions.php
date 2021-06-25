@@ -6,7 +6,7 @@ function rangeFunc(int $start, int $end) {
 }
 //Try rangeFunc()
 $array = rangeFunc(1, 10);
-print_r $array;
+print_r($array);
 
 function arraySum($arr) {
     $arr = array(" ",);
